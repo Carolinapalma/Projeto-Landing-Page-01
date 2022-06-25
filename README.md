@@ -1,5 +1,5 @@
 # Projeto Landing Page
-Primeiro projeto de página única. Realizado no curso Dev em Dobro.
+Primeiro projeto de página única.
 <br>
 
 ## Tecnologias utilizadas:
