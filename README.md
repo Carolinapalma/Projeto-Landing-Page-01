@@ -9,14 +9,15 @@
 - [Processo](#processo)
    * [Construído com](#construído-com)
    * [O que eu aprendi](#o-que-eu-aprendi)
-   * [Links](#links)
+   * [Acesso a Página](#acesso-a-página)
+   * [Autora](#autora)
 ---
 
 ## <p align="center">Visão geral</p>
 
 ### Sobre
 
-<p> Primeiro projeto de página única a partir do curso Dev em Dobro, que consiste em desafio de HTML e CSS avançado afim de aprimorar conhecimentos adquiridos e através de boas metodologias atualmente usadas no mercado de trabalho.</p>
+Primeiro projeto de página única a partir do curso Dev em Dobro, que consiste em desafio de HTML e CSS avançado afim de aprimorar conhecimentos adquiridos e através de boas metodologias atualmente usadas no mercado de trabalho.
 
 
 ---
@@ -110,9 +111,15 @@ Além das metodologias foram criados itens extras:
 ```
 ---
 
-### Links
-  
- * [GitHub Page](https://carolinapalma.github.io/projeto-landing-page-01/) 
+### Acesso a Página
+
+- [GitHub Page](https://carolinapalma.github.io/projeto-landing-page-01/)
+
+---
+
+## <p align="center">Autora</p>
+
+### Carolina Palma
   
  * [LinkedIn](https://www.linkedin.com/in/carolina-palma-medeiros/) 
   
